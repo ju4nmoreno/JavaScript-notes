@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Simple Counter App",
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
   },
   "author": "James Moore",
   "license": "MIT",
